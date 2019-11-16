@@ -1,0 +1,360 @@
+fileFormatVersion: 2
+guid: be2da9e177aa5c64bbfa9982725d5fb0
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f00000060000000610000006200000063000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 4d04fa3852f82d0c5ee937fbd132af48
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 2.1128874, y: 1.8118529, z: 0.4917728}
+      lookAt: {x: -19.969131, y: -8.805486, z: 1.8472942}
+      up: {x: -0.43185252, y: 0.9015546, z: 0.026509596}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 48" Closet Mockup
+    100002: Closet - Pants
+    100004: Closet - Shirts
+    100006: //RootNode
+    100008: Clothes 1
+    100010: Clothes 1 1
+    100012: Clothes 1 10
+    100014: Clothes 1 11
+    100016: Clothes 1 2
+    100018: Clothes 1 3
+    100020: Clothes 1 4
+    100022: Clothes 1 5
+    100024: Clothes 1 6
+    100026: Clothes 1 7
+    100028: Clothes 1 8
+    100030: Clothes 1 9
+    100032: Hanger
+    100034: Hanger 1
+    100036: Hanger 10
+    100038: Hanger 11
+    100040: Hanger 12
+    100042: Hanger 13
+    100044: Hanger 14
+    100046: Hanger 15
+    100048: Hanger 16
+    100050: Hanger 17
+    100052: Hanger 18
+    100054: Hanger 19
+    100056: Hanger 2
+    100058: Hanger 20
+    100060: Hanger 21
+    100062: Hanger 22
+    100064: Hanger 23
+    100066: Hanger 3
+    100068: Hanger 4
+    100070: Hanger 5
+    100072: Hanger 6
+    100074: Hanger 7
+    100076: Hanger 8
+    100078: Hanger 9
+    100080: Pants
+    100082: Pants 1
+    100084: Pants 10
+    100086: Pants 11
+    100088: Pants 2
+    100090: Pants 3
+    100092: Pants 4
+    100094: Pants 5
+    100096: Pants 6
+    100098: Pants 7
+    100100: Pants 8
+    100102: Pants 9
+    400000: 48" Closet Mockup
+    400002: Closet - Pants
+    400004: Closet - Shirts
+    400006: //RootNode
+    400008: Clothes 1
+    400010: Clothes 1 1
+    400012: Clothes 1 10
+    400014: Clothes 1 11
+    400016: Clothes 1 2
+    400018: Clothes 1 3
+    400020: Clothes 1 4
+    400022: Clothes 1 5
+    400024: Clothes 1 6
+    400026: Clothes 1 7
+    400028: Clothes 1 8
+    400030: Clothes 1 9
+    400032: Hanger
+    400034: Hanger 1
+    400036: Hanger 10
+    400038: Hanger 11
+    400040: Hanger 12
+    400042: Hanger 13
+    400044: Hanger 14
+    400046: Hanger 15
+    400048: Hanger 16
+    400050: Hanger 17
+    400052: Hanger 18
+    400054: Hanger 19
+    400056: Hanger 2
+    400058: Hanger 20
+    400060: Hanger 21
+    400062: Hanger 22
+    400064: Hanger 23
+    400066: Hanger 3
+    400068: Hanger 4
+    400070: Hanger 5
+    400072: Hanger 6
+    400074: Hanger 7
+    400076: Hanger 8
+    400078: Hanger 9
+    400080: Pants
+    400082: Pants 1
+    400084: Pants 10
+    400086: Pants 11
+    400088: Pants 2
+    400090: Pants 3
+    400092: Pants 4
+    400094: Pants 5
+    400096: Pants 6
+    400098: Pants 7
+    400100: Pants 8
+    400102: Pants 9
+    2100000: _defaultMat
+    2100002: '[Color_I12]'
+    2100004: Hanger
+    2100006: '[Color_G05]'
+    2100008: '[Color_A03]'
+    2100010: '[Color_K06]'
+    2100012: '[Color_L14]'
+    2100014: blue jean
+    2100016: '[Color_L25]'
+    2100018: '[Color_G11]'
+    2100020: '[Color_B01]'
+    2100022: '[Color_L20]'
+    2100024: '[0127_Magenta]'
+    2100026: '[0105_Navy]'
+    2100028: '[0136_Charcoal]'
+    2100030: '[0075_ForestGreen]'
+    2100032: '[0036_BurlyWood]'
+    2300000: Clothes 1
+    2300002: Clothes 1 1
+    2300004: Clothes 1 10
+    2300006: Clothes 1 11
+    2300008: Clothes 1 2
+    2300010: Clothes 1 3
+    2300012: Clothes 1 4
+    2300014: Clothes 1 5
+    2300016: Clothes 1 6
+    2300018: Clothes 1 7
+    2300020: Clothes 1 8
+    2300022: Clothes 1 9
+    2300024: Hanger
+    2300026: Hanger 1
+    2300028: Hanger 10
+    2300030: Hanger 11
+    2300032: Hanger 12
+    2300034: Hanger 13
+    2300036: Hanger 14
+    2300038: Hanger 15
+    2300040: Hanger 16
+    2300042: Hanger 17
+    2300044: Hanger 18
+    2300046: Hanger 19
+    2300048: Hanger 2
+    2300050: Hanger 20
+    2300052: Hanger 21
+    2300054: Hanger 22
+    2300056: Hanger 23
+    2300058: Hanger 3
+    2300060: Hanger 4
+    2300062: Hanger 5
+    2300064: Hanger 6
+    2300066: Hanger 7
+    2300068: Hanger 8
+    2300070: Hanger 9
+    2300072: Pants
+    2300074: Pants 1
+    2300076: Pants 10
+    2300078: Pants 11
+    2300080: Pants 2
+    2300082: Pants 3
+    2300084: Pants 4
+    2300086: Pants 5
+    2300088: Pants 6
+    2300090: Pants 7
+    2300092: Pants 8
+    2300094: Pants 9
+    3300000: Clothes 1
+    3300002: Clothes 1 1
+    3300004: Clothes 1 10
+    3300006: Clothes 1 11
+    3300008: Clothes 1 2
+    3300010: Clothes 1 3
+    3300012: Clothes 1 4
+    3300014: Clothes 1 5
+    3300016: Clothes 1 6
+    3300018: Clothes 1 7
+    3300020: Clothes 1 8
+    3300022: Clothes 1 9
+    3300024: Hanger
+    3300026: Hanger 1
+    3300028: Hanger 10
+    3300030: Hanger 11
+    3300032: Hanger 12
+    3300034: Hanger 13
+    3300036: Hanger 14
+    3300038: Hanger 15
+    3300040: Hanger 16
+    3300042: Hanger 17
+    3300044: Hanger 18
+    3300046: Hanger 19
+    3300048: Hanger 2
+    3300050: Hanger 20
+    3300052: Hanger 21
+    3300054: Hanger 22
+    3300056: Hanger 23
+    3300058: Hanger 3
+    3300060: Hanger 4
+    3300062: Hanger 5
+    3300064: Hanger 6
+    3300066: Hanger 7
+    3300068: Hanger 8
+    3300070: Hanger 9
+    3300072: Pants
+    3300074: Pants 1
+    3300076: Pants 10
+    3300078: Pants 11
+    3300080: Pants 2
+    3300082: Pants 3
+    3300084: Pants 4
+    3300086: Pants 5
+    3300088: Pants 6
+    3300090: Pants 7
+    3300092: Pants 8
+    3300094: Pants 9
+    4300000: Mesh Clothes 1
+    4300002: Mesh Hanger
+    4300004: Mesh Clothes 1
+    4300006: Mesh Hanger
+    4300008: Mesh Clothes 1
+    4300010: Mesh Hanger
+    4300012: Mesh Clothes 1
+    4300014: Mesh Hanger
+    4300016: Mesh Clothes 1
+    4300018: Mesh Hanger
+    4300020: Mesh Clothes 1
+    4300022: Mesh Hanger
+    4300024: Mesh Clothes 1
+    4300026: Mesh Hanger
+    4300028: Mesh Clothes 1
+    4300030: Mesh Hanger
+    4300032: Mesh Clothes 1
+    4300034: Mesh Hanger
+    4300036: Mesh Clothes 1
+    4300038: Mesh Hanger
+    4300040: Mesh Pants
+    4300042: Mesh Hanger
+    4300044: Mesh Pants
+    4300046: Mesh Hanger
+    4300048: Mesh Pants
+    4300050: Mesh Hanger
+    4300052: Mesh Pants
+    4300054: Mesh Hanger
+    4300056: Mesh Pants
+    4300058: Mesh Hanger
+    4300060: Mesh Pants
+    4300062: Mesh Hanger
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
